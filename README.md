@@ -7,3 +7,8 @@
 1. Naufal Yafi Susanto           (21060120120011)
 2. Reyhan Irfan Yahya            (21060120140052) 
 3. Satyagraha Pakarti Gemilang   (21060120140075)
+
+**Tangkapan Layar**
+<div>
+  <img width="200" src="assets/1.jpg"/> <img width="200" src="assets/2.jpg"/> <br> <img width="200" src="assets/3.jpg"/> <img width="200" src="assets/4.jpg"/>
+</div>
