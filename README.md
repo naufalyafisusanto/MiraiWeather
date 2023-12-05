@@ -7,9 +7,9 @@
 
 **Anggota**
 <pre>
-1. Naufal Yafi Susanto             (21060120120011)
-2. Reyhan Irfan Yahya              (21060120140052) 
-3. Satyagraha Pakarti Gemilang     (21060120140075)
+1. Naufal Yafi Susanto             (21060120120011) -> Developer
+2. Reyhan Irfan Yahya              (21060120140052) -> User Interface
+3. Satyagraha Pakarti Gemilang     (21060120140075) -> API OpenWeatherMap
 </pre>
 
 **Tangkapan Layar**
