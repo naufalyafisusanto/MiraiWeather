@@ -1,4 +1,4 @@
-# MiraiWeather
+# Mirai Weather
 **Tugas Besar Mata Kuliah Pengembangan Aplikasi Perangkat Bergerak**
 <pre>
 - Aplikasi android untuk melihat kondisi cuaca berdasarkan API OpenWeatherMap
